@@ -10,13 +10,16 @@ header {
     width: 98vw;   
     margin: 10px; 
     position: relative;  
-    height: auto;overflow-y: hidden;
+    height: auto;
+    overflow-y: hidden;
     img {
         width: 100%;
     }
 }
+
 .top_wrting{
-    border: 2px solid #fff;    
+    border : 10px solid #fff;    
+    
     h1{
         position: absolute;
         left: 380px;
